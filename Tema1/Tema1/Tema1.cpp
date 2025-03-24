@@ -1,7 +1,7 @@
 #include <iostream>
 #include <windows.h>
 //#include <winreg.h>
-#include <tchar.h>
+//#include <tchar.h>
 // why this works without 
 
 using namespace std;
